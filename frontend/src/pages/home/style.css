@@ -1,47 +1,57 @@
 .card-header {
-    background-color: #f0f0f0;
-  }
-  
-  .card-content {
-    background-color: white;
-  }
-  
-  .inline-form {
-    display: flex;
-    gap: 10px;
-  }
-  
-  .inline-form .MuiTextField-root {
-    flex: 1;
-  }
-  
-  .inline-form .MuiButton-root {
-    flex-shrink: 0;
-  }
-  
-  /* styles.css */
-  
-  .center-box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-  }
-  
-  .center-card {
-    width: 600px; /* Adjust the width as needed */
-  }
-  
-  /* styles.css */
-  
-  .search-button {
-    margin-top: 16px !important;
-    height: 56px;
-    width: 140px;
-  }
+  background-color: #f0f0f0;
+}
 
-  .pagination-box {
-    display: flex;
-    justify-content: center;
-  }
-  
+.card-content {
+  background-color: white;
+}
+
+.inline-form {
+  display: flex;
+  gap: 10px;
+}
+
+.inline-form .MuiTextField-root {
+  flex: 1;
+}
+
+.inline-form .MuiButton-root {
+  flex-shrink: 0;
+}
+
+/* styles.css */
+
+.center-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.center-card {
+  width: 600px; /* Adjust the width as needed */
+}
+
+/* styles.css */
+
+.search-button {
+  margin-top: 16px !important;
+  height: 56px;
+  width: 140px;
+}
+
+.pagination-box {
+  display: flex;
+  justify-content: center;
+}
+
+.inline-form {
+  display: flex;
+  gap: 16px; /* Adjust this value to control spacing */
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+.form-field {
+  flex: 1;
+}

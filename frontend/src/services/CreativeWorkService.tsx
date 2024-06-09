@@ -19,11 +19,15 @@ interface OutputResult {
 }
 
 // Fetch movie data from the backend API
-const fetchMovieData = async (): Promise<OutputResult> => {
-  const response = await api.get("/creativework");
+const fetchMovieData = async (params: any): Promise<OutputResult> => {
+  const response = await api.get("/creativework/", { params });
   return response.data;
 };
 
+const fetchUniqueSources = async (): Promise<string[]> => {
+  const response = await api.get("/creativework/sources/");
+  return response.data;
+};
 // Export the movie data fetching function and genres array
-export { fetchMovieData };
+export { fetchMovieData, fetchUniqueSources };
 export type { MovieData };

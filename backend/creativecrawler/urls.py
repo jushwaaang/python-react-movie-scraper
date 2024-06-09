@@ -16,8 +16,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from rest_framework.routers import DefaultRouter
+from creativework.views import CreativeWorkViewSet
+
+router = DefaultRouter()
+router.register(r'creativework', CreativeWorkViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/creativework', include('creativework.urls')),
+    path('api/', include(router.urls)),
 ]
