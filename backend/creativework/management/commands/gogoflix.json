@@ -1,0 +1,1038 @@
+[
+    {
+      "id": "1a3c0eeb-eff0-4ea2-9e13-7c7c28a8fadd",
+      "endpoint_name": "gogoflix.stream",
+      "success": true,
+      "status": "success",
+      "errors": [],
+      "task_name": "search_web_pages",
+      "result": {
+        "items_count": 10,
+        "items": [
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26664-godzilla-minus-one-wclbn.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Godzilla Minus One",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/godzilla-minus-one-jYTl6.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26661-amelias-children-or78z.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Amelia's Children",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/amelias-children-xsYBr.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26660-les-couleurs-du-mal-rouge-mukw8.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Les Couleurs du mal : Rouge",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/les-couleurs-du-mal-rouge-fjnSe.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26659-may-december-b9h38.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "May December",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/may-december-XPoa1.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26658-kali-qmaxo.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Kali",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/kali-9uHV8.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26657-bionicos-veywc.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Biônicos",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/bionicos-Q4KkY.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26656-die-hart-2-qa7qs.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Die Hart 2",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/die-hart-2-AMKA8.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/26655-les-cartes-du-mal-zvxs2.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Les Cartes du mal",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/les-cartes-du-mal-eWD3z.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/annee/2024.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "S.O.S. Fantômes : La Menace de Glace",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/sos-fantomes-la-menace-de-glace-NqqtY.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-films/annee/2024.html"
+            },
+            "extracted_item": {
+              "type": "movie",
+              "label": "Godzilla x Kong : Le Nouvel Empire",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/godzilla-x-kong-le-nouvel-empire-hMlWV.webp"
+                  }
+                }
+              ],
+              "illustrations": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffc9c585-70a8-484a-89d3-0db33bc36002",
+      "endpoint_name": "gogoflix.stream",
+      "success": true,
+      "status": "success",
+      "errors": [],
+      "task_name": "search_web_pages",
+      "result": {
+        "items_count": 40,
+        "items": [
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26651-who-killed-him-gcfdx/1-saison/4-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Who killed him?",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/who-killed-him-NIh8T.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/2668-pretty-little-liars-original-sin-m0jgl/2-saison/5-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Pretty Little Liars: Original Sin",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/pretty-little-liars-original-sin-0VC5g.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1638-not-dead-yet-confessions-dune-quadra-a-la-ramasse-laxnu/2-saison/10-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Not Dead Yet : Confessions d’une quadra à la ramasse",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/not-dead-yet-confessions-dune-quadra-a-la-ramasse-2QauN.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1802-my-hero-academia-ufaeo/7-saison/5-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "My Hero Academia",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/my-hero-academia-fKXV3.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1954-sorcieres-de-mayfair-c5osi/1-saison/8-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Sorcières de Mayfair",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/sorcieres-de-mayfair-Uxrx4.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/3554-loot-idnft/2-saison/10-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Loot",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/loot-WzaWK.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/213-les-kardashian-0ihiq/5-saison/2-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Les Kardashian",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/les-kardashian-nOrhc.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26662-geek-girl-qbjtr/1-saison/8-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Geek Girl",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/geek-girl-0PDWX.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1846-evil-ff6lf/4-saison/2-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Evil",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/evil-HM7ns.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26663-eric-mkqtx/1-saison/6-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Eric",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/eric-Pw9j5.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26629-doctor-who-heucc/1-saison/5-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Doctor Who",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/doctor-who-yQhAB.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26619-dark-matter-mqemx/1-saison/5-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Dark Matter",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/dark-matter-aZrs3.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/3216-le-remplacant-ie7td/2-saison/2-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Le Remplaçant",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/le-remplacant-MHYJ6.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/66-chicago-police-department-cbcwp/11-saison/13-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Chicago Police Department",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/chicago-police-department-4O4jK.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/68-chicago-med-fkwgc/9-saison/13-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Chicago Med",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/chicago-med-KWqOT.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26529-we-were-the-lucky-ones-6vdy5/1-saison/6-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "We Were the Lucky Ones",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/we-were-the-lucky-ones-hLzqS.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1802-my-hero-academia-ufaeo/7-saison/4-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "My Hero Academia",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/my-hero-academia-fKXV3.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26651-who-killed-him-gcfdx/1-saison/2-episode.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Who killed him?",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/who-killed-him-NIh8T.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26663-eric-mkqtx.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Eric",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/eric-Pw9j5.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26641-the-big-cigar-yc0ub.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "The Big Cigar",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/the-big-cigar-9SGIV.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26604-the-goat-8lo3k.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "The GOAT",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/the-goat-uoYRc.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26602-wind-breaker-piuta.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Wind breaker",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/wind-breaker-TxOWG.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/4418-star-trek-discovery-yspgm.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Star Trek : Discovery",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/star-trek-discovery-9hUPz.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/3444-trying-63aow.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Trying",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/trying-WfQaQ.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/2668-pretty-little-liars-original-sin-m0jgl.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Pretty Little Liars: Original Sin",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/pretty-little-liars-original-sin-0VC5g.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1802-my-hero-academia-ufaeo.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "My Hero Academia",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/my-hero-academia-fKXV3.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/1638-not-dead-yet-confessions-dune-quadra-a-la-ramasse-laxnu.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Not Dead Yet : Confessions d’une quadra à la ramasse",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/not-dead-yet-confessions-dune-quadra-a-la-ramasse-2QauN.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26662-geek-girl-qbjtr.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Geek Girl",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/geek-girl-0PDWX.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26629-doctor-who-heucc.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Doctor Who",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/doctor-who-yQhAB.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26619-dark-matter-mqemx.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Dark Matter",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/dark-matter-aZrs3.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/3554-loot-idnft.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Loot",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/loot-WzaWK.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/2555-acapulco-22tyn.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Acapulco",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/acapulco-rLZgE.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/866-all-american-ouo6g.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "All American",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/all-american-C2T7m.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/213-les-kardashian-0ihiq.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Les Kardashian",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/les-kardashian-nOrhc.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26577-wild-cards-yh8to.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Wild Cards",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/wild-cards-fcsnS.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26611-fifteen-love-qv2ld.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Fifteen-Love",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/fifteen-love-jqWQ9.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26579-the-veil-yntzy.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "The Veil",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/the-veil-1TR6w.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/26520-the-sympathizer-yvwul.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "The Sympathizer",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/the-sympathizer-WwFBp.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/625-le-coeur-a-ses-raisons-154g5.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Le cœur a ses raisons",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/le-coeur-a-ses-raisons-8rv00.webp"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "web_page",
+            "source": {
+              "type": "source",
+              "url": "https://gogoflix.shop/categorie-series/107-call-the-midwife-euehe.html"
+            },
+            "extracted_item": {
+              "type": "tv_show",
+              "label": "Call the Midwife",
+              "posters": [
+                {
+                  "type": "image_format",
+                  "source": {
+                    "type": "source",
+                    "url": "https://gogoflix.shop/uploads/posts/call-the-midwife-36rg3.webp"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
