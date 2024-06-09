@@ -20,7 +20,6 @@ import {
   fetchUniqueSources,
   MovieData,
 } from "../../services/CreativeWorkService";
-import "./style.css";
 
 const Home: React.FC = () => {
   const [search, setSearch] = useState("");
@@ -42,7 +41,7 @@ const Home: React.FC = () => {
     fetchMovieData(params).then((resp) => {
       setResults(resp.results);
       setTotalPages(Math.ceil(resp.count / 10));
-      setTotalCount(resp.count)
+      setTotalCount(resp.count);
     });
   };
 
@@ -82,11 +81,28 @@ const Home: React.FC = () => {
 
   return (
     <Container maxWidth="md">
-      <Box className="center-box">
-        <Card className="center-card">
-          <CardHeader title="Film & TV Extractor" className="card-header" />
-          <CardContent className="card-content">
-            <Box className="inline-form">
+      <Box
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          minHeight: "100vh",
+        }}
+      >
+        <Card style={{ width: 600 }}>
+          <CardHeader
+            title="Film & TV Extractor"
+            style={{ backgroundColor: "#f0f0f0" }}
+          />
+          <CardContent style={{ backgroundColor: "white" }}>
+            <Box
+              style={{
+                display: "flex",
+                gap: 16,
+                width: "100%",
+                paddingBottom: 15,
+              }}
+            >
               <TextField
                 label="Search"
                 fullWidth
@@ -94,8 +110,9 @@ const Home: React.FC = () => {
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
                 onKeyPress={handleKeyPress}
+                sx={{ flex: 1 }}
               />
-              <FormControl fullWidth margin="normal" className="form-field">
+              <FormControl fullWidth margin="normal" sx={{ flex: 1 }}>
                 <Select
                   labelId="site-select-label"
                   value={site}
@@ -110,15 +127,17 @@ const Home: React.FC = () => {
                 </Select>
               </FormControl>
               <Button
-                className="search-button"
                 variant="contained"
                 color="primary"
                 onClick={handleSearch}
+                sx={{ flexShrink: 0, height: 56, width: 140, marginTop: 1 }}
               >
                 Search
               </Button>
             </Box>
-            <span className="result-count">{ totalCount } Results(s)</span>
+            <span style={{ display: "block", marginBottom: 16 }}>
+              {totalCount} Results(s)
+            </span>
             <List>
               {results &&
                 results.map((result) => (
@@ -142,7 +161,7 @@ const Home: React.FC = () => {
                   </ListItem>
                 ))}
             </List>
-            <Box className="pagination-box">
+            <Box style={{ display: "flex", justifyContent: "center" }}>
               <Pagination
                 count={totalPages}
                 page={currentPage}

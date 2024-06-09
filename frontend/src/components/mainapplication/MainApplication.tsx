@@ -1,11 +1,17 @@
-// src/App.tsx
 import React from "react";
-import "./style.css"; // Import the CSS file
 import Home from "../../pages/home/Home";
 
 const MainApplication: React.FC = () => {
   return (
-    <div className="full-height">
+    <div
+      style={{
+        minHeight: "100vh",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        background: "#e0f7fa"
+      }}
+    >
       <Home />
     </div>
   );
